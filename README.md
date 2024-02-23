@@ -13,3 +13,5 @@ Comments are written in the main.m. Here I just remind you some characteristics 
 4.	Several polar code construction algorithms are also given. These algorithms are state-of-art and yields good codes.
 
 If you find there are obvious errors or problems in my MATLAB codes, you may e-mail me 498699845@qq.com. Let us study polar codes together. I am just a student who is struggling for a Master degree.
+
+try github desktop
